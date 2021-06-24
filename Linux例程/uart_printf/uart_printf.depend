@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1569248430 source:c:\users\dell\desktop\uart_printf\main.c
+	"s3c2440_soc.h"
+	"uart.h"
+	"my_printf.h"
+	<stdio.h>
+
+1569072171 c:\users\dell\desktop\uart_printf\s3c2440_soc.h
+
+1569248676 c:\users\dell\desktop\uart_printf\uart.h
+
+1569302735 c:\users\dell\desktop\uart_printf\my_printf.h
+	"uart.h"
+
+1569302535 source:c:\users\dell\desktop\uart_printf\uart.c
+	"s3c2440_soc.h"
+	"uart.h"
+
+1569302492 source:c:\users\dell\desktop\uart_printf\my_printf.c
+	"my_printf.h"
+
+1569302492 source:d:\单片机学习\嵌入式\例程\uart_printf\my_printf.c
+	"my_printf.h"
+
+1569302735 d:\单片机学习\嵌入式\例程\uart_printf\my_printf.h
+	"uart.h"
+
+1569248676 d:\单片机学习\嵌入式\例程\uart_printf\uart.h
+
+1569302535 source:d:\单片机学习\嵌入式\例程\uart_printf\uart.c
+	"s3c2440_soc.h"
+	"uart.h"
+
+1569072171 d:\单片机学习\嵌入式\例程\uart_printf\s3c2440_soc.h
+
